@@ -18,6 +18,6 @@ This project is a simple maze-solving program implemented using Python's Turtle 
 Clone the repository and run the code:
 
 ```bash
-git clone https://github.com/yourusername/maze-solving-program.git
+git clone https://github.com/tabbytadi/maze-solving-program.git
 cd maze-solving-program
 python maze_solver.py
