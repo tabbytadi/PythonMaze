@@ -1,6 +1,6 @@
 # Maze Solving Program
 
-This project is a simple maze-solving program implemented using Python's Turtle graphics library. The goal is to visualize the solving process of a maze using two algorithms: Depth-First Search (DFS).
+This project is a simple maze-solving program implemented using Python's Turtle graphics library. The goal is to visualize the solving process of a maze using two algorithms: Depth-First Search (DFS) and Breath-First Search (BFS).
 
 ## Features
 
