@@ -6,7 +6,7 @@ This project is a simple maze-solving program implemented using Python's Turtle 
 
 - Visual representation of the maze.
 - Solution visualization using Turtle graphics.
-- Implementation of DFS algorithm to find the path from start to end.
+- Implementation of DFS and BFS algorithms to find the path from start to end.
 
 ## Prerequisites
 
